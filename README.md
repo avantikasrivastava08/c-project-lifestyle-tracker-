@@ -1,1 +1,1 @@
-# c-project-emootion-study-assistant-
+# c-project-emotion-study-assistant-
